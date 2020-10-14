@@ -1,0 +1,8 @@
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\bin\Debug\Ejercicios_03_Rafael.exe.config
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\bin\Debug\Ejercicios_03_Rafael.exe
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\bin\Debug\Ejercicios_03_Rafael.pdb
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\obj\Debug\Ejercicios_03_Rafael.csprojResolveAssemblyReference.cache
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\obj\Debug\Ejercicios_03_Rafael.exe
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\obj\Debug\Ejercicios_03_Rafael.pdb
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\bin\Debug\Newtonsoft.Json.dll
+C:\Users\r2zam\OneDrive\Documentos\Kodigo\C#\Ejercicios_03_Rafael\Ejercicios_03_Rafael\bin\Debug\Newtonsoft.Json.xml
